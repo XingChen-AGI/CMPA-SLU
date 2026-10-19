@@ -29,10 +29,6 @@
 | MASSIVE-ZH | 18 | 60 | 55 |
 | **CMPA-SLU (Ours)** | **50** | **247** | **74** |
 
-## 🚀 Experimental Results
-
-We evaluate multiple LLMs under both **Full Category** and **Partial Category** settings. Results show that the Partial Category setting (dynamic candidate space) significantly improves performance by reducing prediction uncertainty, especially for open-source fine-tuned models (LoRA). (Refer to Table 2 in the paper for detailed metrics).
-
 
 ## 📝 Citation
 
